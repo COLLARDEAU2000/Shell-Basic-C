@@ -3,7 +3,7 @@
 #A propos du développeur:
 
 -Le nom du créateur du programme : RENAMY COLLARDEAU Christian Devis 
--Biographie : Etuadiant en L3 MIAGE / Devellopeur logicielle LINGUA CUSTODIA
+-Biographie : Etuadiant en L3 MIAGE  
 -mail : christiancollardeau@gmail.com
 
 #Programme creer sur Ubuntu
